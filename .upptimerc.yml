@@ -18,7 +18,7 @@ status-website:
   theme: ocean
   cname: up.npchosting.com
   # baseUrl: /your-repo-name
-  logoUrl: https://panel.npchosting.com/favicon.ico
+  logoUrl: https://github.com/NPC-Hosting/links/raw/main/img/npchosting.png
   name: NPC Hosting 
   introTitle: "NPC Hosting - India's only DDoS protected game server hosting"
   introMessage: 
