@@ -18,18 +18,18 @@ status-website:
   theme: ocean
   cname: up.npchosting.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://panel.npchosting.com/favicon.ico
   name: NPC Hosting 
-  introTitle: "NPC Hosting is India's only DDoS protected game server hosting"
+  introTitle: "NPC Hosting - India's only DDoS protected game server hosting"
   introMessage: 
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-skipDescriptionUpdate: true
-skipTopicsUpdate: true
-skipHomepageUpdate: true
+    - title: Home
+      href: https://npchosting.com/
+skipDescriptionUpdate: false
+skipTopicsUpdate: false
+skipHomepageUpdate: false
 commitMessages:
   commitAuthorName: "NPC Bot"
   commitAuthorEmail: "support@npchosting.com"
