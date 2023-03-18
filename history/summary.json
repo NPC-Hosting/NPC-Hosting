@@ -6,18 +6,16 @@
     "slug": "panel-mumbai",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 794,
-    "timeDay": 806,
-    "timeWeek": 802,
-    "timeMonth": 845,
+    "timeDay": 809,
+    "timeWeek": 799,
+    "timeMonth": 836,
     "timeYear": 794,
-    "dailyMinutesDown": {
-      "2023-03-17": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Panel US",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 258,
-    "timeDay": 340,
-    "timeWeek": 265,
-    "timeMonth": 232,
+    "timeDay": 303,
+    "timeWeek": 262,
+    "timeMonth": 237,
     "timeYear": 258,
     "dailyMinutesDown": {
       "2023-01-25": 15
