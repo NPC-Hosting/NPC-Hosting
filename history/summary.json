@@ -4,19 +4,19 @@
     "url": "https://mcpanel.npchosting.com",
     "icon": "https://panel.npchosting.com/favicon.ico",
     "slug": "panel-mumbai",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 794,
-    "timeDay": 655,
-    "timeWeek": 780,
-    "timeMonth": 791,
+    "timeDay": 747,
+    "timeWeek": 788,
+    "timeMonth": 792,
     "timeYear": 794,
     "dailyMinutesDown": {
-      "2023-04-15": 0
+      "2023-04-15": 12
     }
   },
   {
