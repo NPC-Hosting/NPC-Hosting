@@ -15,7 +15,9 @@
     "timeWeek": 767,
     "timeMonth": 761,
     "timeYear": 793,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-26": 0
+    }
   },
   {
     "name": "Panel US",
