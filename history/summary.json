@@ -26,7 +26,7 @@
     "url": "https://panel.npchosting.com",
     "icon": "https://panel.npchosting.com/favicon.ico",
     "slug": "panel-us",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,6 +38,7 @@
     "timeMonth": 239,
     "timeYear": 249,
     "dailyMinutesDown": {
+      "2023-10-27": 0,
       "2023-01-25": 15
     }
   }
