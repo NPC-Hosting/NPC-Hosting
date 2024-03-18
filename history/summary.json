@@ -4,7 +4,7 @@
     "url": "https://mcpanel.npchosting.com",
     "icon": "https://panel.npchosting.com/favicon.ico",
     "slug": "panel-mumbai",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 767,
     "timeYear": 766,
     "dailyMinutesDown": {
+      "2024-03-18": 0,
       "2023-10-17": 20,
       "2023-10-08": 101,
       "2023-10-07": 10
