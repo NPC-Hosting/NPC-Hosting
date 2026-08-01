@@ -24,10 +24,10 @@
     "slug": "panel-us",
     "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "69.90%",
-    "uptimeYear": "97.49%",
+    "uptimeDay": "97.13%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "69.80%",
+    "uptimeYear": "97.48%",
     "time": 294,
     "timeDay": 381,
     "timeWeek": 415,
@@ -44,7 +44,8 @@
       "2026-07-09": 1440,
       "2026-07-08": 1440,
       "2026-07-07": 1349,
-      "2026-07-17": 52
+      "2026-07-17": 52,
+      "2026-08-01": 41
     }
   }
 ]
