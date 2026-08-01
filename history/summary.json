@@ -22,17 +22,17 @@
     "url": "https://panel.npchosting.com",
     "icon": "https://panel.npchosting.com/favicon.ico",
     "slug": "panel-us",
-    "status": "down",
-    "uptime": "99.30%",
-    "uptimeDay": "97.13%",
-    "uptimeWeek": "99.59%",
-    "uptimeMonth": "69.80%",
-    "uptimeYear": "97.48%",
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "86.00%",
+    "uptimeWeek": "98.00%",
+    "uptimeMonth": "69.44%",
+    "uptimeYear": "97.45%",
     "time": 294,
-    "timeDay": 381,
-    "timeWeek": 415,
-    "timeMonth": 431,
-    "timeYear": 302,
+    "timeDay": 489,
+    "timeWeek": 441,
+    "timeMonth": 437,
+    "timeYear": 303,
     "dailyMinutesDown": {
       "2026-07-16": 267,
       "2026-07-15": 1440,
@@ -45,7 +45,7 @@
       "2026-07-08": 1440,
       "2026-07-07": 1349,
       "2026-07-17": 52,
-      "2026-08-01": 41
+      "2026-08-01": 202
     }
   }
 ]
