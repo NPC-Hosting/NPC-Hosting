@@ -5,18 +5,18 @@
     "icon": "https://panel.npchosting.com/favicon.ico",
     "slug": "panel-mumbai",
     "status": "down",
-    "uptime": "93.72%",
+    "uptime": "93.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "72.79%",
+    "uptimeYear": "72.76%",
     "time": 769,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 760,
     "dailyMinutesDown": {
-      "2026-11-26": 360,
+      "2026-11-26": 522,
       "2026-11-25": 1440,
       "2026-11-24": 1440,
       "2026-11-23": 1440,
@@ -124,9 +124,9 @@
     "url": "https://panel.npchosting.com",
     "icon": "https://panel.npchosting.com/favicon.ico",
     "slug": "panel-us",
-    "status": "up",
+    "status": "down",
     "uptime": "98.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.22%",
@@ -156,7 +156,8 @@
       "2026-09-04": 1440,
       "2026-09-03": 1440,
       "2026-09-02": 1440,
-      "2026-09-01": 705
+      "2026-09-01": 705,
+      "2026-11-26": 0
     }
   }
 ]
